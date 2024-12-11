@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "mobmechs:bismuth_block",
+    "mobmechs:bismuth_ore",
+    "mobmechs:bismuth_deepslate_ore"
+  ]
+}

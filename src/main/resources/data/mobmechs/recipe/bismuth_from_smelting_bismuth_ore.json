@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.25,
+  "ingredient": [
+    {
+      "item": "mobmechs:bismuth_ore"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "mobmechs:bismuth"
+  }
+}

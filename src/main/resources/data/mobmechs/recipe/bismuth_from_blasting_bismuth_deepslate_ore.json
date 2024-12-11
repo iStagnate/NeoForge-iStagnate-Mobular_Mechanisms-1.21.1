@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.25,
+  "ingredient": [
+    {
+      "item": "mobmechs:bismuth_deepslate_ore"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "mobmechs:bismuth"
+  }
+}
